@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beyazfutbol
+- 👋 Hi, I’m Alperen 
 - 👀 I’m interested in python,C/C++,(backend,microprocessors and data science ,machine learning...)
 - 🌱 I’m currently learning backend development(python )
 - 💞️ I’m looking to collaborate on ...
